@@ -1,0 +1,16 @@
+.our-sponsors{
+    display:flex; 
+    flex-direction: column;
+}
+.row{
+    display: flex; 
+    /* width: 80%;  */
+    justify-content: space-between; 
+    margin:50px; 
+}
+
+.sponsors{
+
+    width: 90%;
+    padding: 50px 0px;
+}

@@ -1,0 +1,64 @@
+.contact-us {
+  width: 45%;
+  background-color: #381DDB;
+  color:aliceblue;
+  padding: 30px;
+}
+
+.contacts{
+  display: flex;
+}
+
+.your-details {
+  width: 60%;
+  background-color: rgba(34, 34, 34, 0.03);
+  color: black;
+  padding-left: 30px;
+  padding-top: 30px;
+  display: column;
+}
+
+.big-text{
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 15px 0px;
+}
+
+.contact{
+  display: flex;
+  margin: 60px 0px;
+}
+
+.contact-text{
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+.big-light-text{
+  font-size: 2rem;
+  font-weight: lighter;
+  margin: 30px 0px;
+}
+
+.detail{
+  font-size: 1rem; 
+  width: 50%;
+  padding-top: 20px;
+}
+input{
+  border: double;
+}
+
+textarea{
+  border: double;
+  width: 90%; 
+  height: 60px;
+}
+
+.button{
+  width: 90%; 
+  margin-top: 40px;
+}
+
+
+/* transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out – выполняет изменение значений свойств border-color и box-shadow с анимацией длительностью 0.15 секунд посредством временной функцией ease-in-out. */
